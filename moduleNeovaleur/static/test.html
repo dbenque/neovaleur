@@ -1,0 +1,29 @@
+<html>
+<script type="text/javascript">
+function doSomethingAfterLoading() {
+	console.log("Finally")
+}
+function init() {
+	console.log("init")
+var ROOT = 'http://localhost:8080/_ah/api';
+gapi.client.load('greeting', 'v1', function() {
+	doSomethingAfterLoading();
+}, ROOT);
+}
+
+</script>
+<script src="https://apis.google.com/js/client.js?onload=init">
+
+</script>
+
+<body>
+Hello
+<script>
+gapi.client.greeting.greets.count().execute(function(resp) {
+	console.log(resp);
+});
+
+</script>
+
+</body>
+</html>
