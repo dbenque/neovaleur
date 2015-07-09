@@ -1,0 +1,1 @@
+docker run --rm -p 127.0.0.1:8080:8080 -p 127.0.0.1:8000:8000 -p 127.0.0.1:9000:9000 -v "$GOPATH/src/github.com/dbenque/goAppengineToolkit/moduleData:/home/project/moduleData" -v "$GOPATH:/localgopath:ro" -e "LOCALGOPATH=`/bin/ls $GOPATH/src`" dbenque/goappengine 

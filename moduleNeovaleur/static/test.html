@@ -19,9 +19,18 @@ gapi.client.load('greeting', 'v1', function() {
 <body>
 Hello
 <script>
-gapi.client.greeting.greets.count().execute(function(resp) {
-	console.log(resp);
-});
+function callback(){
+
+	alert('Ready')
+	gapi.client.greeting.greets.count().execute(function(resp) {
+		console.log(resp);
+	});
+
+}
+
+setTimeout(callback,1000)
+
+
 
 </script>
 

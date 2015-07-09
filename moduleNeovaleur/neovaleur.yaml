@@ -7,10 +7,12 @@ runtime: go
 api_version: go1
 
 handlers:
-- url: /toto
-  static_files: static/test.html
-  upload: static/test.html
+#- url: /toto
+  #static_files: static/test.html
+  #upload: static/test.html
 
+- url: /static
+  static_dir: static/
 
 - url: /.*
   script: _go_app
