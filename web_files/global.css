@@ -1,0 +1,41 @@
+
+
+body{
+	/*background-color:#F0E1F7;*/
+	/*background: url("../images/fond.png") repeat-x;
+	background-color: #ADADAD;*/
+	background-color:#dae6f0;
+	-webkit-user-select: none;
+     -moz-user-select: -moz-none;
+      -ms-user-select: none;
+          user-select: none;
+}
+
+
+#topLogo
+{
+	float:left;
+}
+
+.clearer {
+	clear:both;
+}
+
+.langConnectMenu{
+	height : 25px;
+	text-align:right;
+	float:right;
+	-moz-border-radius: 15px;
+	border-radius: 7px;
+	background-color: #F1F2F8;
+	padding: 5px 7px 0px 7px;
+	margin-top:20px;
+}
+.footer{
+	bottom:0;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	text-align:center;
+}
+

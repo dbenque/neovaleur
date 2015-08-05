@@ -1,0 +1,73 @@
+<div class="container">
+
+  <div class="row">
+
+    <div class="col-lg-12">
+      <h1 class="page-header">Données
+        <small></small>
+      </h1>
+    </div>
+
+  </div>
+  <div class="row">
+
+    <script>
+      $(function() { // function to automatically open the panel when mouseover
+        var delay = 700,
+          setTimeoutConst;
+        $(document).on('mouseout.collapse', function(e) {
+          clearTimeout(setTimeoutConst)
+        })
+        $(document).on('mouseover.collapse', '[data-toggle=collapse]', function(e) {
+
+          clearTimeout(setTimeoutConst);
+          setTimeoutConst = setTimeout(function() {
+            e.currentTarget.click()
+          }, delay);
+
+        })
+      });
+    </script>
+
+    <script id="recPanel" type="text/ng-template">
+      <div aria-multiselectable="true" class="panel-group" id="accordion_{{c.Ciid}}" role="tablist">
+        <div class="panel panel-default" ng-repeat="c in c.Children">
+          <div class="panel-heading" id="head_{{c.Ciid}}" role="tab">
+            <h4 class="panel-title">
+              <a aria-controls="collapseOne_{{c.Ciid}}" aria-expanded="true" data-parent="#accordion_{{$parent.c.Ciid}}" data-toggle="collapse" href="data#collapseOne_{{c.Ciid}}" role="button">
+                {{c.Content}}
+              </a>
+            </h4>
+          </div>
+<!-- Panel used for recursive sections -->
+          <div aria-labelledby="head_{{c.Ciid}}" class="panel-body panel-collapse collapse" id="collapseOne_{{c.Ciid}}" ng-if="c.Children" ng-include="'recPanel'" role="tabpanel"></div>
+<!-- Panel used for options -->
+          <div aria-labelledby="head_{{c.Ciid}}" class="list-group panel-collapse collapse" id="collapseOne_{{c.Ciid}}" ng-controller="ListOfOptions" ng-if="!c.Children">
+            <a ciid="{{c.Ciid}}" ciidoption class="list-group-item" href="" ng-click="selectOption(o.Value,c.Ciid)" ng-repeat="o in c.Options" optionvalue="{{o.Value}}">{{o.Text}}</a>
+          </div>
+        </div>
+      </div>
+    </script>
+
+    <div aria-multiselectable="true" class="panel-group" id="accordion" role="tablist">
+      <div class="panel panel-default" ng-repeat="c in cimodel.root.Children">
+        <div class="panel-heading" id="head_{{c.Ciid}}" role="tab">
+          <h4 class="panel-title">
+            <a aria-controls="collapseOne_{{c.Ciid}}" aria-expanded="true" data-parent="#accordion" data-toggle="collapse" href="data#collapseOne_{{c.Ciid}}" role="button">
+              {{c.Content}}
+            </a>
+            <span class="badge pull-right">0/{{c.Children.length}}</span>
+          </h4>
+
+        </div>
+        <div aria-labelledby="head_{{c.Ciid}}" class="panel-collapse collapse" id="collapseOne_{{c.Ciid}}" role="tabpanel">
+          <div class="panel-body">
+            <div ng-include="'recPanel'"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+</div>

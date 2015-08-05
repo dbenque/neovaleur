@@ -2,7 +2,6 @@ package main
 
 import (
 	"encoding/json"
-	"fmt"
 	"io/ioutil"
 	"os"
 	"strconv"
@@ -18,6 +17,11 @@ func check(e error) {
 	}
 }
 
+type PathAndId struct {
+	Ciid    string
+	Section string
+}
+
 type nodeBase struct {
 	Id        string
 	MotherId  string
@@ -25,6 +29,9 @@ type nodeBase struct {
 	MaxWeight string
 	Rules     string //choice(max of available valeus),moyenne,mult
 	Content   string
+	Options   []option
+	Ciid      string
+	Path      []PathAndId
 }
 
 type nodeJson struct {
@@ -42,7 +49,6 @@ type option struct {
 type node struct {
 	nodeBase
 	ChildrenId []string
-	Options    []option
 }
 
 type edge map[string]int
@@ -53,13 +59,55 @@ type treeDataModel struct {
 }
 
 func (n *nodeJson) exploreRules() {
-	if n.Id == "314" {
-		fmt.Printf("%v\n", n)
-	}
 	//fmt.Println(n.Rules)
 	if n.Children != nil {
 		for _, v := range n.Children {
 			v.exploreRules()
+		}
+	}
+}
+
+func (n *nodeJson) setOptionsAndCiid(model *map[string]node, currentCiid string) {
+	n.Options = (*model)[n.Id].Options
+	if len(currentCiid) > 0 {
+		n.Ciid = currentCiid + "_" + n.Id
+	} else {
+		n.Ciid = n.Id
+	}
+	if n.Children != nil {
+		for i := 0; i < len(n.Children); i++ {
+			(&(n.Children[i])).setOptionsAndCiid(model, n.Ciid)
+		}
+	}
+}
+
+func (n *nodeJson) leavesOnly() []*nodeJson {
+
+	l := make([]*nodeJson, 0, 0)
+
+	if n.Children != nil {
+		for i := 0; i < len(n.Children); i++ {
+			l = append(l, (&(n.Children[i])).leavesOnly()...)
+		}
+	} else {
+		l = append(l, n)
+	}
+
+	return l
+
+}
+
+func (n *nodeJson) setParentPath(path []PathAndId) {
+	if path == nil {
+		path = make([]PathAndId, 0, 0)
+	}
+
+	n.Path = path
+
+	if n.Children != nil {
+		path = append(path, PathAndId{n.Ciid, n.Content})
+		for i := 0; i < len(n.Children); i++ {
+			(&(n.Children[i])).setParentPath(path)
 		}
 	}
 }
@@ -135,6 +183,10 @@ func main() {
 
 	modelMap := buildModel(&treeData)
 
+	r := treeData.Nodes["1"]
+	r.setOptionsAndCiid(&modelMap, "")
+	r.setParentPath(nil)
+
 	// for _, n := range modelMap {
 	// 	if n.Id == "314" {
 	//
@@ -144,7 +196,16 @@ func main() {
 
 	b, _ := json.Marshal(&modelMap)
 
-	ioutil.WriteFile("model.json", b, 0666)
+	ioutil.WriteFile("moduleNeovaleur/static/model.json", b, 0666)
+
+	bb, _ := json.Marshal(r)
+
+	ioutil.WriteFile("moduleNeovaleur/static/rootmodel.json", bb, 0666)
+
+	l, _ := json.Marshal(r.leavesOnly())
+
+	ioutil.WriteFile("moduleNeovaleur/static/leaves.json", l, 0666)
+
 	// http.HandleFunc("/", handler)
 	// http.ListenAndServe(":8888", nil)
 
