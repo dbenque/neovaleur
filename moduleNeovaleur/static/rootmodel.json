@@ -8,6 +8,7 @@
   "Options": null,
   "Ciid": "1",
   "Path": [],
+  "OptCount": 179,
   "Lft": "1",
   "Rgt": "1158",
   "Children": [{
@@ -23,6 +24,7 @@
       "Ciid": "1",
       "Section": "Immaterial capitals"
     }],
+    "OptCount": 6,
     "Lft": "2",
     "Rgt": "25",
     "Children": [{
@@ -41,6 +43,7 @@
         "Ciid": "1_314",
         "Section": "Capital Naturel"
       }],
+      "OptCount": 1,
       "Lft": "3",
       "Rgt": "6",
       "Children": [{
@@ -77,6 +80,7 @@
           "Ciid": "1_314_324",
           "Section": "Air"
         }],
+        "OptCount": 1,
         "Lft": "4",
         "Rgt": "5",
         "Children": null
@@ -97,6 +101,7 @@
         "Ciid": "1_314",
         "Section": "Capital Naturel"
       }],
+      "OptCount": 2,
       "Lft": "7",
       "Rgt": "12",
       "Children": [{
@@ -133,6 +138,7 @@
           "Ciid": "1_314_321",
           "Section": "Eau"
         }],
+        "OptCount": 1,
         "Lft": "8",
         "Rgt": "9",
         "Children": null
@@ -170,6 +176,7 @@
           "Ciid": "1_314_321",
           "Section": "Eau"
         }],
+        "OptCount": 1,
         "Lft": "10",
         "Rgt": "11",
         "Children": null
@@ -190,6 +197,7 @@
         "Ciid": "1_314",
         "Section": "Capital Naturel"
       }],
+      "OptCount": 1,
       "Lft": "13",
       "Rgt": "16",
       "Children": [{
@@ -226,6 +234,7 @@
           "Ciid": "1_314_319",
           "Section": "Matières premières"
         }],
+        "OptCount": 1,
         "Lft": "14",
         "Rgt": "15",
         "Children": null
@@ -246,6 +255,7 @@
         "Ciid": "1_314",
         "Section": "Capital Naturel"
       }],
+      "OptCount": 1,
       "Lft": "17",
       "Rgt": "20",
       "Children": [{
@@ -282,6 +292,7 @@
           "Ciid": "1_314_317",
           "Section": "Climat"
         }],
+        "OptCount": 1,
         "Lft": "18",
         "Rgt": "19",
         "Children": null
@@ -302,6 +313,7 @@
         "Ciid": "1_314",
         "Section": "Capital Naturel"
       }],
+      "OptCount": 1,
       "Lft": "21",
       "Rgt": "24",
       "Children": [{
@@ -338,6 +350,7 @@
           "Ciid": "1_314_315",
           "Section": "Geography"
         }],
+        "OptCount": 1,
         "Lft": "22",
         "Rgt": "23",
         "Children": null
@@ -356,6 +369,7 @@
       "Ciid": "1",
       "Section": "Immaterial capitals"
     }],
+    "OptCount": 5,
     "Lft": "26",
     "Rgt": "45",
     "Children": [{
@@ -389,6 +403,7 @@
         "Ciid": "1_304",
         "Section": "Capital Sociétal"
       }],
+      "OptCount": 1,
       "Lft": "27",
       "Rgt": "28",
       "Children": null
@@ -408,6 +423,7 @@
         "Ciid": "1_304",
         "Section": "Capital Sociétal"
       }],
+      "OptCount": 1,
       "Lft": "29",
       "Rgt": "32",
       "Children": [{
@@ -444,6 +460,7 @@
           "Ciid": "1_304_311",
           "Section": "Partenaires publics"
         }],
+        "OptCount": 1,
         "Lft": "30",
         "Rgt": "31",
         "Children": null
@@ -464,6 +481,7 @@
         "Ciid": "1_304",
         "Section": "Capital Sociétal"
       }],
+      "OptCount": 1,
       "Lft": "33",
       "Rgt": "36",
       "Children": [{
@@ -500,6 +518,7 @@
           "Ciid": "1_304_309",
           "Section": "Infrastructures"
         }],
+        "OptCount": 1,
         "Lft": "34",
         "Rgt": "35",
         "Children": null
@@ -520,6 +539,7 @@
         "Ciid": "1_304",
         "Section": "Capital Sociétal"
       }],
+      "OptCount": 1,
       "Lft": "37",
       "Rgt": "40",
       "Children": [{
@@ -556,6 +576,7 @@
           "Ciid": "1_304_307",
           "Section": "Services Publics"
         }],
+        "OptCount": 1,
         "Lft": "38",
         "Rgt": "39",
         "Children": null
@@ -576,6 +597,7 @@
         "Ciid": "1_304",
         "Section": "Capital Sociétal"
       }],
+      "OptCount": 1,
       "Lft": "41",
       "Rgt": "44",
       "Children": [{
@@ -612,6 +634,7 @@
           "Ciid": "1_304_305",
           "Section": "Potentiel local RH"
         }],
+        "OptCount": 1,
         "Lft": "42",
         "Rgt": "43",
         "Children": null
@@ -630,6 +653,7 @@
       "Ciid": "1",
       "Section": "Immaterial capitals"
     }],
+    "OptCount": 6,
     "Lft": "46",
     "Rgt": "75",
     "Children": [{
@@ -648,6 +672,7 @@
         "Ciid": "1_289",
         "Section": "Capital actionnaire"
       }],
+      "OptCount": 4,
       "Lft": "47",
       "Rgt": "64",
       "Children": [{
@@ -669,6 +694,7 @@
           "Ciid": "1_289_295",
           "Section": "Qualités individuelles"
         }],
+        "OptCount": 1,
         "Lft": "48",
         "Rgt": "51",
         "Children": [{
@@ -708,6 +734,7 @@
             "Ciid": "1_289_295_296",
             "Section": "Fidélité"
           }],
+          "OptCount": 1,
           "Lft": "49",
           "Rgt": "50",
           "Children": null
@@ -731,6 +758,7 @@
           "Ciid": "1_289_295",
           "Section": "Qualités individuelles"
         }],
+        "OptCount": 1,
         "Lft": "52",
         "Rgt": "55",
         "Children": [{
@@ -770,6 +798,7 @@
             "Ciid": "1_289_295_296",
             "Section": "Fidélité"
           }],
+          "OptCount": 1,
           "Lft": "53",
           "Rgt": "54",
           "Children": null
@@ -793,6 +822,7 @@
           "Ciid": "1_289_295",
           "Section": "Qualités individuelles"
         }],
+        "OptCount": 1,
         "Lft": "56",
         "Rgt": "59",
         "Children": [{
@@ -832,6 +862,7 @@
             "Ciid": "1_289_295_296",
             "Section": "Fidélité"
           }],
+          "OptCount": 1,
           "Lft": "57",
           "Rgt": "58",
           "Children": null
@@ -855,6 +886,7 @@
           "Ciid": "1_289_295",
           "Section": "Qualités individuelles"
         }],
+        "OptCount": 1,
         "Lft": "60",
         "Rgt": "63",
         "Children": [{
@@ -894,6 +926,7 @@
             "Ciid": "1_289_295_296",
             "Section": "Fidélité"
           }],
+          "OptCount": 1,
           "Lft": "61",
           "Rgt": "62",
           "Children": null
@@ -915,6 +948,7 @@
         "Ciid": "1_289",
         "Section": "Capital actionnaire"
       }],
+      "OptCount": 2,
       "Lft": "65",
       "Rgt": "74",
       "Children": [{
@@ -936,6 +970,7 @@
           "Ciid": "1_289_290",
           "Section": "Qualités collectives"
         }],
+        "OptCount": 1,
         "Lft": "66",
         "Rgt": "69",
         "Children": [{
@@ -975,6 +1010,7 @@
             "Ciid": "1_289_290_291",
             "Section": "Type"
           }],
+          "OptCount": 1,
           "Lft": "67",
           "Rgt": "68",
           "Children": null
@@ -998,6 +1034,7 @@
           "Ciid": "1_289_290",
           "Section": "Qualités collectives"
         }],
+        "OptCount": 1,
         "Lft": "70",
         "Rgt": "73",
         "Children": [{
@@ -1037,6 +1074,7 @@
             "Ciid": "1_289_290_291",
             "Section": "Type"
           }],
+          "OptCount": 1,
           "Lft": "71",
           "Rgt": "72",
           "Children": null
@@ -1056,6 +1094,7 @@
       "Ciid": "1",
       "Section": "Immaterial capitals"
     }],
+    "OptCount": 12,
     "Lft": "76",
     "Rgt": "121",
     "Children": [{
@@ -1074,6 +1113,7 @@
         "Ciid": "1_266",
         "Section": "Capital partenaires"
       }],
+      "OptCount": 3,
       "Lft": "77",
       "Rgt": "86",
       "Children": [{
@@ -1095,6 +1135,7 @@
           "Ciid": "1_266_284",
           "Section": "Robustesse du portefeuille"
         }],
+        "OptCount": 3,
         "Lft": "78",
         "Rgt": "85",
         "Children": [{
@@ -1134,6 +1175,7 @@
             "Ciid": "1_266_284_285",
             "Section": "Robustesse du Portefeuille I (faire la moyenne pour les produits)"
           }],
+          "OptCount": 1,
           "Lft": "79",
           "Rgt": "80",
           "Children": null
@@ -1174,6 +1216,7 @@
             "Ciid": "1_266_284_285",
             "Section": "Robustesse du Portefeuille I (faire la moyenne pour les produits)"
           }],
+          "OptCount": 1,
           "Lft": "81",
           "Rgt": "82",
           "Children": null
@@ -1214,6 +1257,7 @@
             "Ciid": "1_266_284_285",
             "Section": "Robustesse du Portefeuille I (faire la moyenne pour les produits)"
           }],
+          "OptCount": 1,
           "Lft": "83",
           "Rgt": "84",
           "Children": null
@@ -1235,6 +1279,7 @@
         "Ciid": "1_266",
         "Section": "Capital partenaires"
       }],
+      "OptCount": 9,
       "Lft": "87",
       "Rgt": "120",
       "Children": [{
@@ -1256,6 +1301,7 @@
           "Ciid": "1_266_267",
           "Section": "Qualités individuelles"
         }],
+        "OptCount": 1,
         "Lft": "88",
         "Rgt": "91",
         "Children": [{
@@ -1295,6 +1341,7 @@
             "Ciid": "1_266_267_268",
             "Section": "Niveau de service"
           }],
+          "OptCount": 1,
           "Lft": "89",
           "Rgt": "90",
           "Children": null
@@ -1318,6 +1365,7 @@
           "Ciid": "1_266_267",
           "Section": "Qualités individuelles"
         }],
+        "OptCount": 1,
         "Lft": "92",
         "Rgt": "95",
         "Children": [{
@@ -1354,6 +1402,7 @@
             "Ciid": "1_266_267_268",
             "Section": "Niveau de service"
           }],
+          "OptCount": 1,
           "Lft": "93",
           "Rgt": "94",
           "Children": null
@@ -1377,6 +1426,7 @@
           "Ciid": "1_266_267",
           "Section": "Qualités individuelles"
         }],
+        "OptCount": 1,
         "Lft": "96",
         "Rgt": "99",
         "Children": [{
@@ -1416,6 +1466,7 @@
             "Ciid": "1_266_267_268",
             "Section": "Niveau de service"
           }],
+          "OptCount": 1,
           "Lft": "97",
           "Rgt": "98",
           "Children": null
@@ -1439,6 +1490,7 @@
           "Ciid": "1_266_267",
           "Section": "Qualités individuelles"
         }],
+        "OptCount": 2,
         "Lft": "100",
         "Rgt": "105",
         "Children": [{
@@ -1478,6 +1530,7 @@
             "Ciid": "1_266_267_268",
             "Section": "Niveau de service"
           }],
+          "OptCount": 1,
           "Lft": "101",
           "Rgt": "102",
           "Children": null
@@ -1518,6 +1571,7 @@
             "Ciid": "1_266_267_268",
             "Section": "Niveau de service"
           }],
+          "OptCount": 1,
           "Lft": "103",
           "Rgt": "104",
           "Children": null
@@ -1541,6 +1595,7 @@
           "Ciid": "1_266_267",
           "Section": "Qualités individuelles"
         }],
+        "OptCount": 4,
         "Lft": "106",
         "Rgt": "119",
         "Children": [{
@@ -1565,6 +1620,7 @@
             "Ciid": "1_266_267_268",
             "Section": "Niveau de service"
           }],
+          "OptCount": 2,
           "Lft": "107",
           "Rgt": "112",
           "Children": [{
@@ -1607,6 +1663,7 @@
               "Ciid": "1_266_267_268_272",
               "Section": "SAV"
             }],
+            "OptCount": 1,
             "Lft": "108",
             "Rgt": "109",
             "Children": null
@@ -1650,6 +1707,7 @@
               "Ciid": "1_266_267_268_272",
               "Section": "SAV"
             }],
+            "OptCount": 1,
             "Lft": "110",
             "Rgt": "111",
             "Children": null
@@ -1676,6 +1734,7 @@
             "Ciid": "1_266_267_268",
             "Section": "Niveau de service"
           }],
+          "OptCount": 2,
           "Lft": "113",
           "Rgt": "118",
           "Children": [{
@@ -1718,6 +1777,7 @@
               "Ciid": "1_266_267_268_269",
               "Section": "Qualité des livraisons"
             }],
+            "OptCount": 1,
             "Lft": "114",
             "Rgt": "115",
             "Children": null
@@ -1761,6 +1821,7 @@
               "Ciid": "1_266_267_268_269",
               "Section": "Qualité des livraisons"
             }],
+            "OptCount": 1,
             "Lft": "116",
             "Rgt": "117",
             "Children": null
@@ -1781,6 +1842,7 @@
       "Ciid": "1",
       "Section": "Immaterial capitals"
     }],
+    "OptCount": 11,
     "Lft": "122",
     "Rgt": "165",
     "Children": [{
@@ -1799,6 +1861,7 @@
         "Ciid": "1_244",
         "Section": "Capital de Marque"
       }],
+      "OptCount": 5,
       "Lft": "123",
       "Rgt": "140",
       "Children": [{
@@ -1820,6 +1883,7 @@
           "Ciid": "1_244_257",
           "Section": "Risque"
         }],
+        "OptCount": 1,
         "Lft": "124",
         "Rgt": "127",
         "Children": [{
@@ -1853,6 +1917,7 @@
             "Ciid": "1_244_257_258",
             "Section": "Singularité"
           }],
+          "OptCount": 1,
           "Lft": "125",
           "Rgt": "126",
           "Children": null
@@ -1876,6 +1941,7 @@
           "Ciid": "1_244_257",
           "Section": "Risque"
         }],
+        "OptCount": 3,
         "Lft": "128",
         "Rgt": "135",
         "Children": [{
@@ -1915,6 +1981,7 @@
             "Ciid": "1_244_257_258",
             "Section": "Singularité"
           }],
+          "OptCount": 1,
           "Lft": "129",
           "Rgt": "130",
           "Children": null
@@ -1955,6 +2022,7 @@
             "Ciid": "1_244_257_258",
             "Section": "Singularité"
           }],
+          "OptCount": 1,
           "Lft": "131",
           "Rgt": "132",
           "Children": null
@@ -1995,6 +2063,7 @@
             "Ciid": "1_244_257_258",
             "Section": "Singularité"
           }],
+          "OptCount": 1,
           "Lft": "133",
           "Rgt": "134",
           "Children": null
@@ -2018,6 +2087,7 @@
           "Ciid": "1_244_257",
           "Section": "Risque"
         }],
+        "OptCount": 1,
         "Lft": "136",
         "Rgt": "139",
         "Children": [{
@@ -2057,6 +2127,7 @@
             "Ciid": "1_244_257_258",
             "Section": "Singularité"
           }],
+          "OptCount": 1,
           "Lft": "137",
           "Rgt": "138",
           "Children": null
@@ -2078,6 +2149,7 @@
         "Ciid": "1_244",
         "Section": "Capital de Marque"
       }],
+      "OptCount": 6,
       "Lft": "141",
       "Rgt": "164",
       "Children": [{
@@ -2099,6 +2171,7 @@
           "Ciid": "1_244_245",
           "Section": "Potentiel Direct"
         }],
+        "OptCount": 1,
         "Lft": "142",
         "Rgt": "145",
         "Children": [{
@@ -2138,6 +2211,7 @@
             "Ciid": "1_244_245_246",
             "Section": "Confiance"
           }],
+          "OptCount": 1,
           "Lft": "143",
           "Rgt": "144",
           "Children": null
@@ -2161,6 +2235,7 @@
           "Ciid": "1_244_245",
           "Section": "Potentiel Direct"
         }],
+        "OptCount": 1,
         "Lft": "146",
         "Rgt": "149",
         "Children": [{
@@ -2200,6 +2275,7 @@
             "Ciid": "1_244_245_246",
             "Section": "Confiance"
           }],
+          "OptCount": 1,
           "Lft": "147",
           "Rgt": "148",
           "Children": null
@@ -2223,6 +2299,7 @@
           "Ciid": "1_244_245",
           "Section": "Potentiel Direct"
         }],
+        "OptCount": 3,
         "Lft": "150",
         "Rgt": "159",
         "Children": [{
@@ -2247,6 +2324,7 @@
             "Ciid": "1_244_245_246",
             "Section": "Confiance"
           }],
+          "OptCount": 2,
           "Lft": "151",
           "Rgt": "156",
           "Children": [{
@@ -2289,6 +2367,7 @@
               "Ciid": "1_244_245_248_250",
               "Section": "Autres indicateurs"
             }],
+            "OptCount": 1,
             "Lft": "152",
             "Rgt": "153",
             "Children": null
@@ -2332,6 +2411,7 @@
               "Ciid": "1_244_245_248_250",
               "Section": "Autres indicateurs"
             }],
+            "OptCount": 1,
             "Lft": "154",
             "Rgt": "155",
             "Children": null
@@ -2373,6 +2453,7 @@
             "Ciid": "1_244_245_246",
             "Section": "Confiance"
           }],
+          "OptCount": 1,
           "Lft": "157",
           "Rgt": "158",
           "Children": null
@@ -2396,6 +2477,7 @@
           "Ciid": "1_244_245",
           "Section": "Potentiel Direct"
         }],
+        "OptCount": 1,
         "Lft": "160",
         "Rgt": "163",
         "Children": [{
@@ -2435,6 +2517,7 @@
             "Ciid": "1_244_245_246",
             "Section": "Confiance"
           }],
+          "OptCount": 1,
           "Lft": "161",
           "Rgt": "162",
           "Children": null
@@ -2454,6 +2537,7 @@
       "Ciid": "1",
       "Section": "Immaterial capitals"
     }],
+    "OptCount": 15,
     "Lft": "166",
     "Rgt": "223",
     "Children": [{
@@ -2472,6 +2556,7 @@
         "Ciid": "1_215",
         "Section": "Capital de Savoir"
       }],
+      "OptCount": 4,
       "Lft": "167",
       "Rgt": "182",
       "Children": [{
@@ -2493,6 +2578,7 @@
           "Ciid": "1_215_236",
           "Section": "Valeur des savoirs futurs"
         }],
+        "OptCount": 1,
         "Lft": "168",
         "Rgt": "171",
         "Children": [{
@@ -2532,6 +2618,7 @@
             "Ciid": "1_215_236_237",
             "Section": "Quantité"
           }],
+          "OptCount": 1,
           "Lft": "169",
           "Rgt": "170",
           "Children": null
@@ -2555,6 +2642,7 @@
           "Ciid": "1_215_236",
           "Section": "Valeur des savoirs futurs"
         }],
+        "OptCount": 1,
         "Lft": "172",
         "Rgt": "175",
         "Children": [{
@@ -2594,6 +2682,7 @@
             "Ciid": "1_215_236_237",
             "Section": "Quantité"
           }],
+          "OptCount": 1,
           "Lft": "173",
           "Rgt": "174",
           "Children": null
@@ -2617,6 +2706,7 @@
           "Ciid": "1_215_236",
           "Section": "Valeur des savoirs futurs"
         }],
+        "OptCount": 2,
         "Lft": "176",
         "Rgt": "181",
         "Children": [{
@@ -2656,6 +2746,7 @@
             "Ciid": "1_215_236_237",
             "Section": "Quantité"
           }],
+          "OptCount": 1,
           "Lft": "177",
           "Rgt": "178",
           "Children": null
@@ -2696,6 +2787,7 @@
             "Ciid": "1_215_236_237",
             "Section": "Quantité"
           }],
+          "OptCount": 1,
           "Lft": "179",
           "Rgt": "180",
           "Children": null
@@ -2717,6 +2809,7 @@
         "Ciid": "1_215",
         "Section": "Capital de Savoir"
       }],
+      "OptCount": 11,
       "Lft": "183",
       "Rgt": "222",
       "Children": [{
@@ -2738,6 +2831,7 @@
           "Ciid": "1_215_216",
           "Section": "Valeur des savoirs actuels"
         }],
+        "OptCount": 6,
         "Lft": "184",
         "Rgt": "205",
         "Children": [{
@@ -2762,6 +2856,7 @@
             "Ciid": "1_215_216_217",
             "Section": "Potentiel"
           }],
+          "OptCount": 2,
           "Lft": "185",
           "Rgt": "190",
           "Children": [{
@@ -2804,6 +2899,7 @@
               "Ciid": "1_215_216_225_233",
               "Section": "Protection"
             }],
+            "OptCount": 1,
             "Lft": "186",
             "Rgt": "187",
             "Children": null
@@ -2847,6 +2943,7 @@
               "Ciid": "1_215_216_225_233",
               "Section": "Protection"
             }],
+            "OptCount": 1,
             "Lft": "188",
             "Rgt": "189",
             "Children": null
@@ -2873,6 +2970,7 @@
             "Ciid": "1_215_216_217",
             "Section": "Potentiel"
           }],
+          "OptCount": 1,
           "Lft": "191",
           "Rgt": "194",
           "Children": [{
@@ -2915,6 +3013,7 @@
               "Ciid": "1_215_216_225_231",
               "Section": "Barrière à l’entrée"
             }],
+            "OptCount": 1,
             "Lft": "192",
             "Rgt": "193",
             "Children": null
@@ -2941,6 +3040,7 @@
             "Ciid": "1_215_216_217",
             "Section": "Potentiel"
           }],
+          "OptCount": 2,
           "Lft": "195",
           "Rgt": "200",
           "Children": [{
@@ -2983,6 +3083,7 @@
               "Ciid": "1_215_216_225_228",
               "Section": "Maîtrise"
             }],
+            "OptCount": 1,
             "Lft": "196",
             "Rgt": "197",
             "Children": null
@@ -3026,6 +3127,7 @@
               "Ciid": "1_215_216_225_228",
               "Section": "Maîtrise"
             }],
+            "OptCount": 1,
             "Lft": "198",
             "Rgt": "199",
             "Children": null
@@ -3052,6 +3154,7 @@
             "Ciid": "1_215_216_217",
             "Section": "Potentiel"
           }],
+          "OptCount": 1,
           "Lft": "201",
           "Rgt": "204",
           "Children": [{
@@ -3094,6 +3197,7 @@
               "Ciid": "1_215_216_225_226",
               "Section": "Cycle de vie"
             }],
+            "OptCount": 1,
             "Lft": "202",
             "Rgt": "203",
             "Children": null
@@ -3118,6 +3222,7 @@
           "Ciid": "1_215_216",
           "Section": "Valeur des savoirs actuels"
         }],
+        "OptCount": 5,
         "Lft": "206",
         "Rgt": "221",
         "Children": [{
@@ -3142,6 +3247,7 @@
             "Ciid": "1_215_216_217",
             "Section": "Potentiel"
           }],
+          "OptCount": 3,
           "Lft": "207",
           "Rgt": "214",
           "Children": [{
@@ -3184,6 +3290,7 @@
               "Ciid": "1_215_216_217_221",
               "Section": "Innovation"
             }],
+            "OptCount": 1,
             "Lft": "208",
             "Rgt": "209",
             "Children": null
@@ -3227,6 +3334,7 @@
               "Ciid": "1_215_216_217_221",
               "Section": "Innovation"
             }],
+            "OptCount": 1,
             "Lft": "210",
             "Rgt": "211",
             "Children": null
@@ -3270,6 +3378,7 @@
               "Ciid": "1_215_216_217_221",
               "Section": "Innovation"
             }],
+            "OptCount": 1,
             "Lft": "212",
             "Rgt": "213",
             "Children": null
@@ -3296,6 +3405,7 @@
             "Ciid": "1_215_216_217",
             "Section": "Potentiel"
           }],
+          "OptCount": 2,
           "Lft": "215",
           "Rgt": "220",
           "Children": [{
@@ -3338,6 +3448,7 @@
               "Ciid": "1_215_216_217_218",
               "Section": "Demande"
             }],
+            "OptCount": 1,
             "Lft": "216",
             "Rgt": "217",
             "Children": null
@@ -3381,6 +3492,7 @@
               "Ciid": "1_215_216_217_218",
               "Section": "Demande"
             }],
+            "OptCount": 1,
             "Lft": "218",
             "Rgt": "219",
             "Children": null
@@ -3401,6 +3513,7 @@
       "Ciid": "1",
       "Section": "Immaterial capitals"
     }],
+    "OptCount": 20,
     "Lft": "224",
     "Rgt": "289",
     "Children": [{
@@ -3419,6 +3532,7 @@
         "Ciid": "1_182",
         "Section": "Capital de Système d’Information"
       }],
+      "OptCount": 20,
       "Lft": "225",
       "Rgt": "288",
       "Children": [{
@@ -3440,6 +3554,7 @@
           "Ciid": "1_182_183",
           "Section": "Moyenne applications informatiques"
         }],
+        "OptCount": 4,
         "Lft": "226",
         "Rgt": "239",
         "Children": [{
@@ -3464,6 +3579,7 @@
             "Ciid": "1_182_183_185",
             "Section": "Niveau de service"
           }],
+          "OptCount": 1,
           "Lft": "227",
           "Rgt": "230",
           "Children": [{
@@ -3506,6 +3622,7 @@
               "Ciid": "1_182_183_208_213",
               "Section": "Temps de traitement"
             }],
+            "OptCount": 1,
             "Lft": "228",
             "Rgt": "229",
             "Children": null
@@ -3532,6 +3649,7 @@
             "Ciid": "1_182_183_185",
             "Section": "Niveau de service"
           }],
+          "OptCount": 3,
           "Lft": "231",
           "Rgt": "238",
           "Children": [{
@@ -3574,6 +3692,7 @@
               "Ciid": "1_182_183_208_209",
               "Section": "Obsolescence"
             }],
+            "OptCount": 1,
             "Lft": "232",
             "Rgt": "233",
             "Children": null
@@ -3617,6 +3736,7 @@
               "Ciid": "1_182_183_208_209",
               "Section": "Obsolescence"
             }],
+            "OptCount": 1,
             "Lft": "234",
             "Rgt": "235",
             "Children": null
@@ -3660,6 +3780,7 @@
               "Ciid": "1_182_183_208_209",
               "Section": "Obsolescence"
             }],
+            "OptCount": 1,
             "Lft": "236",
             "Rgt": "237",
             "Children": null
@@ -3684,6 +3805,7 @@
           "Ciid": "1_182_183",
           "Section": "Moyenne applications informatiques"
         }],
+        "OptCount": 4,
         "Lft": "240",
         "Rgt": "253",
         "Children": [{
@@ -3708,6 +3830,7 @@
             "Ciid": "1_182_183_185",
             "Section": "Niveau de service"
           }],
+          "OptCount": 1,
           "Lft": "241",
           "Rgt": "244",
           "Children": [{
@@ -3750,6 +3873,7 @@
               "Ciid": "1_182_183_201_206",
               "Section": "Flexibilité"
             }],
+            "OptCount": 1,
             "Lft": "242",
             "Rgt": "243",
             "Children": null
@@ -3776,6 +3900,7 @@
             "Ciid": "1_182_183_185",
             "Section": "Niveau de service"
           }],
+          "OptCount": 3,
           "Lft": "245",
           "Rgt": "252",
           "Children": [{
@@ -3818,6 +3943,7 @@
               "Ciid": "1_182_183_201_202",
               "Section": "Actuelle"
             }],
+            "OptCount": 1,
             "Lft": "246",
             "Rgt": "247",
             "Children": null
@@ -3861,6 +3987,7 @@
               "Ciid": "1_182_183_201_202",
               "Section": "Actuelle"
             }],
+            "OptCount": 1,
             "Lft": "248",
             "Rgt": "249",
             "Children": null
@@ -3904,6 +4031,7 @@
               "Ciid": "1_182_183_201_202",
               "Section": "Actuelle"
             }],
+            "OptCount": 1,
             "Lft": "250",
             "Rgt": "251",
             "Children": null
@@ -3928,6 +4056,7 @@
           "Ciid": "1_182_183",
           "Section": "Moyenne applications informatiques"
         }],
+        "OptCount": 11,
         "Lft": "254",
         "Rgt": "285",
         "Children": [{
@@ -3952,6 +4081,7 @@
             "Ciid": "1_182_183_185",
             "Section": "Niveau de service"
           }],
+          "OptCount": 2,
           "Lft": "255",
           "Rgt": "260",
           "Children": [{
@@ -3994,6 +4124,7 @@
               "Ciid": "1_182_183_185_198",
               "Section": "Ergonomie"
             }],
+            "OptCount": 1,
             "Lft": "256",
             "Rgt": "257",
             "Children": null
@@ -4037,6 +4168,7 @@
               "Ciid": "1_182_183_185_198",
               "Section": "Ergonomie"
             }],
+            "OptCount": 1,
             "Lft": "258",
             "Rgt": "259",
             "Children": null
@@ -4063,6 +4195,7 @@
             "Ciid": "1_182_183_185",
             "Section": "Niveau de service"
           }],
+          "OptCount": 3,
           "Lft": "261",
           "Rgt": "268",
           "Children": [{
@@ -4105,6 +4238,7 @@
               "Ciid": "1_182_183_185_194",
               "Section": "Robustesse"
             }],
+            "OptCount": 1,
             "Lft": "262",
             "Rgt": "263",
             "Children": null
@@ -4148,6 +4282,7 @@
               "Ciid": "1_182_183_185_194",
               "Section": "Robustesse"
             }],
+            "OptCount": 1,
             "Lft": "264",
             "Rgt": "265",
             "Children": null
@@ -4191,6 +4326,7 @@
               "Ciid": "1_182_183_185_194",
               "Section": "Robustesse"
             }],
+            "OptCount": 1,
             "Lft": "266",
             "Rgt": "267",
             "Children": null
@@ -4217,6 +4353,7 @@
             "Ciid": "1_182_183_185",
             "Section": "Niveau de service"
           }],
+          "OptCount": 1,
           "Lft": "269",
           "Rgt": "272",
           "Children": [{
@@ -4259,6 +4396,7 @@
               "Ciid": "1_182_183_185_192",
               "Section": "Disponibilité"
             }],
+            "OptCount": 1,
             "Lft": "270",
             "Rgt": "271",
             "Children": null
@@ -4285,6 +4423,7 @@
             "Ciid": "1_182_183_185",
             "Section": "Niveau de service"
           }],
+          "OptCount": 5,
           "Lft": "273",
           "Rgt": "284",
           "Children": [{
@@ -4327,6 +4466,7 @@
               "Ciid": "1_182_183_185_186",
               "Section": "Sécurité"
             }],
+            "OptCount": 1,
             "Lft": "274",
             "Rgt": "275",
             "Children": null
@@ -4370,6 +4510,7 @@
               "Ciid": "1_182_183_185_186",
               "Section": "Sécurité"
             }],
+            "OptCount": 1,
             "Lft": "276",
             "Rgt": "277",
             "Children": null
@@ -4413,6 +4554,7 @@
               "Ciid": "1_182_183_185_186",
               "Section": "Sécurité"
             }],
+            "OptCount": 1,
             "Lft": "278",
             "Rgt": "279",
             "Children": null
@@ -4456,6 +4598,7 @@
               "Ciid": "1_182_183_185_186",
               "Section": "Sécurité"
             }],
+            "OptCount": 1,
             "Lft": "280",
             "Rgt": "281",
             "Children": null
@@ -4499,6 +4642,7 @@
               "Ciid": "1_182_183_185_186",
               "Section": "Sécurité"
             }],
+            "OptCount": 1,
             "Lft": "282",
             "Rgt": "283",
             "Children": null
@@ -4538,6 +4682,7 @@
           "Ciid": "1_182_183",
           "Section": "Moyenne applications informatiques"
         }],
+        "OptCount": 1,
         "Lft": "286",
         "Rgt": "287",
         "Children": null
@@ -4556,6 +4701,7 @@
       "Ciid": "1",
       "Section": "Immaterial capitals"
     }],
+    "OptCount": 32,
     "Lft": "290",
     "Rgt": "389",
     "Children": [{
@@ -4574,6 +4720,7 @@
         "Ciid": "1_132",
         "Section": "Capital Organisationnel"
       }],
+      "OptCount": 1,
       "Lft": "291",
       "Rgt": "294",
       "Children": [{
@@ -4610,6 +4757,7 @@
           "Ciid": "1_132_180",
           "Section": "Projets"
         }],
+        "OptCount": 1,
         "Lft": "292",
         "Rgt": "293",
         "Children": null
@@ -4630,6 +4778,7 @@
         "Ciid": "1_132",
         "Section": "Capital Organisationnel"
       }],
+      "OptCount": 2,
       "Lft": "295",
       "Rgt": "300",
       "Children": [{
@@ -4666,6 +4815,7 @@
           "Ciid": "1_132_177",
           "Section": "Flexibilité"
         }],
+        "OptCount": 1,
         "Lft": "296",
         "Rgt": "297",
         "Children": null
@@ -4703,6 +4853,7 @@
           "Ciid": "1_132_177",
           "Section": "Flexibilité"
         }],
+        "OptCount": 1,
         "Lft": "298",
         "Rgt": "299",
         "Children": null
@@ -4723,6 +4874,7 @@
         "Ciid": "1_132",
         "Section": "Capital Organisationnel"
       }],
+      "OptCount": 20,
       "Lft": "301",
       "Rgt": "364",
       "Children": [{
@@ -4744,6 +4896,7 @@
           "Ciid": "1_132_145",
           "Section": "Processus"
         }],
+        "OptCount": 1,
         "Lft": "302",
         "Rgt": "305",
         "Children": [{
@@ -4783,6 +4936,7 @@
             "Ciid": "1_132_145_146",
             "Section": "Clients"
           }],
+          "OptCount": 1,
           "Lft": "303",
           "Rgt": "304",
           "Children": null
@@ -4806,6 +4960,7 @@
           "Ciid": "1_132_145",
           "Section": "Processus"
         }],
+        "OptCount": 1,
         "Lft": "306",
         "Rgt": "309",
         "Children": [{
@@ -4845,6 +5000,7 @@
             "Ciid": "1_132_145_146",
             "Section": "Clients"
           }],
+          "OptCount": 1,
           "Lft": "307",
           "Rgt": "308",
           "Children": null
@@ -4868,6 +5024,7 @@
           "Ciid": "1_132_145",
           "Section": "Processus"
         }],
+        "OptCount": 6,
         "Lft": "310",
         "Rgt": "327",
         "Children": [{
@@ -4892,6 +5049,7 @@
             "Ciid": "1_132_145_146",
             "Section": "Clients"
           }],
+          "OptCount": 3,
           "Lft": "311",
           "Rgt": "318",
           "Children": [{
@@ -4934,6 +5092,7 @@
               "Ciid": "1_132_145_164_169",
               "Section": "Contrôle"
             }],
+            "OptCount": 1,
             "Lft": "312",
             "Rgt": "313",
             "Children": null
@@ -4977,6 +5136,7 @@
               "Ciid": "1_132_145_164_169",
               "Section": "Contrôle"
             }],
+            "OptCount": 1,
             "Lft": "314",
             "Rgt": "315",
             "Children": null
@@ -5020,6 +5180,7 @@
               "Ciid": "1_132_145_164_169",
               "Section": "Contrôle"
             }],
+            "OptCount": 1,
             "Lft": "316",
             "Rgt": "317",
             "Children": null
@@ -5046,6 +5207,7 @@
             "Ciid": "1_132_145_146",
             "Section": "Clients"
           }],
+          "OptCount": 3,
           "Lft": "319",
           "Rgt": "326",
           "Children": [{
@@ -5088,6 +5250,7 @@
               "Ciid": "1_132_145_164_165",
               "Section": "Comptabilité"
             }],
+            "OptCount": 1,
             "Lft": "320",
             "Rgt": "321",
             "Children": null
@@ -5131,6 +5294,7 @@
               "Ciid": "1_132_145_164_165",
               "Section": "Comptabilité"
             }],
+            "OptCount": 1,
             "Lft": "322",
             "Rgt": "323",
             "Children": null
@@ -5174,6 +5338,7 @@
               "Ciid": "1_132_145_164_165",
               "Section": "Comptabilité"
             }],
+            "OptCount": 1,
             "Lft": "324",
             "Rgt": "325",
             "Children": null
@@ -5198,6 +5363,7 @@
           "Ciid": "1_132_145",
           "Section": "Processus"
         }],
+        "OptCount": 6,
         "Lft": "328",
         "Rgt": "345",
         "Children": [{
@@ -5222,6 +5388,7 @@
             "Ciid": "1_132_145_146",
             "Section": "Clients"
           }],
+          "OptCount": 5,
           "Lft": "329",
           "Rgt": "340",
           "Children": [{
@@ -5264,6 +5431,7 @@
               "Ciid": "1_132_145_155_158",
               "Section": "Management"
             }],
+            "OptCount": 1,
             "Lft": "330",
             "Rgt": "331",
             "Children": null
@@ -5307,6 +5475,7 @@
               "Ciid": "1_132_145_155_158",
               "Section": "Management"
             }],
+            "OptCount": 1,
             "Lft": "332",
             "Rgt": "333",
             "Children": null
@@ -5350,6 +5519,7 @@
               "Ciid": "1_132_145_155_158",
               "Section": "Management"
             }],
+            "OptCount": 1,
             "Lft": "334",
             "Rgt": "335",
             "Children": null
@@ -5393,6 +5563,7 @@
               "Ciid": "1_132_145_155_158",
               "Section": "Management"
             }],
+            "OptCount": 1,
             "Lft": "336",
             "Rgt": "337",
             "Children": null
@@ -5436,6 +5607,7 @@
               "Ciid": "1_132_145_155_158",
               "Section": "Management"
             }],
+            "OptCount": 1,
             "Lft": "338",
             "Rgt": "339",
             "Children": null
@@ -5462,6 +5634,7 @@
             "Ciid": "1_132_145_146",
             "Section": "Clients"
           }],
+          "OptCount": 1,
           "Lft": "341",
           "Rgt": "344",
           "Children": [{
@@ -5504,6 +5677,7 @@
               "Ciid": "1_132_145_155_156",
               "Section": "Sécurité"
             }],
+            "OptCount": 1,
             "Lft": "342",
             "Rgt": "343",
             "Children": null
@@ -5528,6 +5702,7 @@
           "Ciid": "1_132_145",
           "Section": "Processus"
         }],
+        "OptCount": 6,
         "Lft": "346",
         "Rgt": "363",
         "Children": [{
@@ -5552,6 +5727,7 @@
             "Ciid": "1_132_145_146",
             "Section": "Clients"
           }],
+          "OptCount": 5,
           "Lft": "347",
           "Rgt": "358",
           "Children": [{
@@ -5594,6 +5770,7 @@
               "Ciid": "1_132_145_146_149",
               "Section": "Commercial"
             }],
+            "OptCount": 1,
             "Lft": "348",
             "Rgt": "349",
             "Children": null
@@ -5637,6 +5814,7 @@
               "Ciid": "1_132_145_146_149",
               "Section": "Commercial"
             }],
+            "OptCount": 1,
             "Lft": "350",
             "Rgt": "351",
             "Children": null
@@ -5680,6 +5858,7 @@
               "Ciid": "1_132_145_146_149",
               "Section": "Commercial"
             }],
+            "OptCount": 1,
             "Lft": "352",
             "Rgt": "353",
             "Children": null
@@ -5723,6 +5902,7 @@
               "Ciid": "1_132_145_146_149",
               "Section": "Commercial"
             }],
+            "OptCount": 1,
             "Lft": "354",
             "Rgt": "355",
             "Children": null
@@ -5766,6 +5946,7 @@
               "Ciid": "1_132_145_146_149",
               "Section": "Commercial"
             }],
+            "OptCount": 1,
             "Lft": "356",
             "Rgt": "357",
             "Children": null
@@ -5792,6 +5973,7 @@
             "Ciid": "1_132_145_146",
             "Section": "Clients"
           }],
+          "OptCount": 1,
           "Lft": "359",
           "Rgt": "362",
           "Children": [{
@@ -5834,6 +6016,7 @@
               "Ciid": "1_132_145_146_147",
               "Section": "Qualité"
             }],
+            "OptCount": 1,
             "Lft": "360",
             "Rgt": "361",
             "Children": null
@@ -5856,6 +6039,7 @@
         "Ciid": "1_132",
         "Section": "Capital Organisationnel"
       }],
+      "OptCount": 9,
       "Lft": "365",
       "Rgt": "388",
       "Children": [{
@@ -5877,6 +6061,7 @@
           "Ciid": "1_132_133",
           "Section": "Structure"
         }],
+        "OptCount": 5,
         "Lft": "366",
         "Rgt": "377",
         "Children": [{
@@ -5916,6 +6101,7 @@
             "Ciid": "1_132_133_134",
             "Section": "Macro"
           }],
+          "OptCount": 1,
           "Lft": "367",
           "Rgt": "368",
           "Children": null
@@ -5956,6 +6142,7 @@
             "Ciid": "1_132_133_134",
             "Section": "Macro"
           }],
+          "OptCount": 1,
           "Lft": "369",
           "Rgt": "370",
           "Children": null
@@ -5996,6 +6183,7 @@
             "Ciid": "1_132_133_134",
             "Section": "Macro"
           }],
+          "OptCount": 1,
           "Lft": "371",
           "Rgt": "372",
           "Children": null
@@ -6036,6 +6224,7 @@
             "Ciid": "1_132_133_134",
             "Section": "Macro"
           }],
+          "OptCount": 1,
           "Lft": "373",
           "Rgt": "374",
           "Children": null
@@ -6076,6 +6265,7 @@
             "Ciid": "1_132_133_134",
             "Section": "Macro"
           }],
+          "OptCount": 1,
           "Lft": "375",
           "Rgt": "376",
           "Children": null
@@ -6099,6 +6289,7 @@
           "Ciid": "1_132_133",
           "Section": "Structure"
         }],
+        "OptCount": 4,
         "Lft": "378",
         "Rgt": "387",
         "Children": [{
@@ -6138,6 +6329,7 @@
             "Ciid": "1_132_133_134",
             "Section": "Macro"
           }],
+          "OptCount": 1,
           "Lft": "379",
           "Rgt": "380",
           "Children": null
@@ -6178,6 +6370,7 @@
             "Ciid": "1_132_133_134",
             "Section": "Macro"
           }],
+          "OptCount": 1,
           "Lft": "381",
           "Rgt": "382",
           "Children": null
@@ -6218,6 +6411,7 @@
             "Ciid": "1_132_133_134",
             "Section": "Macro"
           }],
+          "OptCount": 1,
           "Lft": "383",
           "Rgt": "384",
           "Children": null
@@ -6258,6 +6452,7 @@
             "Ciid": "1_132_133_134",
             "Section": "Macro"
           }],
+          "OptCount": 1,
           "Lft": "385",
           "Rgt": "386",
           "Children": null
@@ -6277,6 +6472,7 @@
       "Ciid": "1",
       "Section": "Immaterial capitals"
     }],
+    "OptCount": 45,
     "Lft": "390",
     "Rgt": "539",
     "Children": [{
@@ -6295,6 +6491,7 @@
         "Ciid": "1_57",
         "Section": "Capital Humain"
       }],
+      "OptCount": 18,
       "Lft": "391",
       "Rgt": "448",
       "Children": [{
@@ -6316,6 +6513,7 @@
           "Ciid": "1_57_103",
           "Section": "Capital collaborateurs"
         }],
+        "OptCount": 2,
         "Lft": "392",
         "Rgt": "401",
         "Children": [{
@@ -6340,6 +6538,7 @@
             "Ciid": "1_57_103_104",
             "Section": "Efficient"
           }],
+          "OptCount": 1,
           "Lft": "393",
           "Rgt": "396",
           "Children": [{
@@ -6379,6 +6578,7 @@
               "Ciid": "1_57_103_127_130",
               "Section": "Fidèle II"
             }],
+            "OptCount": 1,
             "Lft": "394",
             "Rgt": "395",
             "Children": null
@@ -6405,6 +6605,7 @@
             "Ciid": "1_57_103_104",
             "Section": "Efficient"
           }],
+          "OptCount": 1,
           "Lft": "397",
           "Rgt": "400",
           "Children": [{
@@ -6444,6 +6645,7 @@
               "Ciid": "1_57_103_127_128",
               "Section": "Fidèle I"
             }],
+            "OptCount": 1,
             "Lft": "398",
             "Rgt": "399",
             "Children": null
@@ -6468,6 +6670,7 @@
           "Ciid": "1_57_103",
           "Section": "Capital collaborateurs"
         }],
+        "OptCount": 2,
         "Lft": "402",
         "Rgt": "407",
         "Children": [{
@@ -6507,6 +6710,7 @@
             "Ciid": "1_57_103_104",
             "Section": "Efficient"
           }],
+          "OptCount": 1,
           "Lft": "403",
           "Rgt": "404",
           "Children": null
@@ -6547,6 +6751,7 @@
             "Ciid": "1_57_103_104",
             "Section": "Efficient"
           }],
+          "OptCount": 1,
           "Lft": "405",
           "Rgt": "406",
           "Children": null
@@ -6570,6 +6775,7 @@
           "Ciid": "1_57_103",
           "Section": "Capital collaborateurs"
         }],
+        "OptCount": 10,
         "Lft": "408",
         "Rgt": "435",
         "Children": [{
@@ -6594,6 +6800,7 @@
             "Ciid": "1_57_103_104",
             "Section": "Efficient"
           }],
+          "OptCount": 2,
           "Lft": "409",
           "Rgt": "414",
           "Children": [{
@@ -6636,6 +6843,7 @@
               "Ciid": "1_57_103_110_121",
               "Section": "Serein"
             }],
+            "OptCount": 1,
             "Lft": "410",
             "Rgt": "411",
             "Children": null
@@ -6679,6 +6887,7 @@
               "Ciid": "1_57_103_110_121",
               "Section": "Serein"
             }],
+            "OptCount": 1,
             "Lft": "412",
             "Rgt": "413",
             "Children": null
@@ -6705,6 +6914,7 @@
             "Ciid": "1_57_103_104",
             "Section": "Efficient"
           }],
+          "OptCount": 4,
           "Lft": "415",
           "Rgt": "424",
           "Children": [{
@@ -6747,6 +6957,7 @@
               "Ciid": "1_57_103_110_116",
               "Section": "Engagé"
             }],
+            "OptCount": 1,
             "Lft": "416",
             "Rgt": "417",
             "Children": null
@@ -6790,6 +7001,7 @@
               "Ciid": "1_57_103_110_116",
               "Section": "Engagé"
             }],
+            "OptCount": 1,
             "Lft": "418",
             "Rgt": "419",
             "Children": null
@@ -6833,6 +7045,7 @@
               "Ciid": "1_57_103_110_116",
               "Section": "Engagé"
             }],
+            "OptCount": 1,
             "Lft": "420",
             "Rgt": "421",
             "Children": null
@@ -6876,6 +7089,7 @@
               "Ciid": "1_57_103_110_116",
               "Section": "Engagé"
             }],
+            "OptCount": 1,
             "Lft": "422",
             "Rgt": "423",
             "Children": null
@@ -6902,6 +7116,7 @@
             "Ciid": "1_57_103_104",
             "Section": "Efficient"
           }],
+          "OptCount": 4,
           "Lft": "425",
           "Rgt": "434",
           "Children": [{
@@ -6944,6 +7159,7 @@
               "Ciid": "1_57_103_110_111",
               "Section": "Compétent (Collaborateurs)"
             }],
+            "OptCount": 1,
             "Lft": "426",
             "Rgt": "427",
             "Children": null
@@ -6987,6 +7203,7 @@
               "Ciid": "1_57_103_110_111",
               "Section": "Compétent (Collaborateurs)"
             }],
+            "OptCount": 1,
             "Lft": "428",
             "Rgt": "429",
             "Children": null
@@ -7030,6 +7247,7 @@
               "Ciid": "1_57_103_110_111",
               "Section": "Compétent (Collaborateurs)"
             }],
+            "OptCount": 1,
             "Lft": "430",
             "Rgt": "431",
             "Children": null
@@ -7073,6 +7291,7 @@
               "Ciid": "1_57_103_110_111",
               "Section": "Compétent (Collaborateurs)"
             }],
+            "OptCount": 1,
             "Lft": "432",
             "Rgt": "433",
             "Children": null
@@ -7097,6 +7316,7 @@
           "Ciid": "1_57_103",
           "Section": "Capital collaborateurs"
         }],
+        "OptCount": 1,
         "Lft": "436",
         "Rgt": "439",
         "Children": [{
@@ -7136,6 +7356,7 @@
             "Ciid": "1_57_103_104",
             "Section": "Efficient"
           }],
+          "OptCount": 1,
           "Lft": "437",
           "Rgt": "438",
           "Children": null
@@ -7159,6 +7380,7 @@
           "Ciid": "1_57_103",
           "Section": "Capital collaborateurs"
         }],
+        "OptCount": 3,
         "Lft": "440",
         "Rgt": "447",
         "Children": [{
@@ -7195,6 +7417,7 @@
             "Ciid": "1_57_103_104",
             "Section": "Efficient"
           }],
+          "OptCount": 1,
           "Lft": "441",
           "Rgt": "442",
           "Children": null
@@ -7232,6 +7455,7 @@
             "Ciid": "1_57_103_104",
             "Section": "Efficient"
           }],
+          "OptCount": 1,
           "Lft": "443",
           "Rgt": "444",
           "Children": null
@@ -7269,6 +7493,7 @@
             "Ciid": "1_57_103_104",
             "Section": "Efficient"
           }],
+          "OptCount": 1,
           "Lft": "445",
           "Rgt": "446",
           "Children": null
@@ -7290,6 +7515,7 @@
         "Ciid": "1_57",
         "Section": "Capital Humain"
       }],
+      "OptCount": 27,
       "Lft": "449",
       "Rgt": "538",
       "Children": [{
@@ -7311,6 +7537,7 @@
           "Ciid": "1_57_58",
           "Section": "Capital dirigeants"
         }],
+        "OptCount": 13,
         "Lft": "450",
         "Rgt": "491",
         "Children": [{
@@ -7335,6 +7562,7 @@
             "Ciid": "1_57_58_59",
             "Section": "Directeurs"
           }],
+          "OptCount": 3,
           "Lft": "451",
           "Rgt": "462",
           "Children": [{
@@ -7362,6 +7590,7 @@
               "Ciid": "1_57_58_82_97",
               "Section": "Stable"
             }],
+            "OptCount": 1,
             "Lft": "452",
             "Rgt": "455",
             "Children": [{
@@ -7407,6 +7636,7 @@
                 "Ciid": "1_57_58_82_97_98",
                 "Section": "Stable I"
               }],
+              "OptCount": 1,
               "Lft": "453",
               "Rgt": "454",
               "Children": null
@@ -7436,6 +7666,7 @@
               "Ciid": "1_57_58_82_97",
               "Section": "Stable"
             }],
+            "OptCount": 2,
             "Lft": "456",
             "Rgt": "461",
             "Children": [{
@@ -7481,6 +7712,7 @@
                 "Ciid": "1_57_58_82_97_98",
                 "Section": "Stable I"
               }],
+              "OptCount": 1,
               "Lft": "457",
               "Rgt": "458",
               "Children": null
@@ -7527,6 +7759,7 @@
                 "Ciid": "1_57_58_82_97_98",
                 "Section": "Stable I"
               }],
+              "OptCount": 1,
               "Lft": "459",
               "Rgt": "460",
               "Children": null
@@ -7554,6 +7787,7 @@
             "Ciid": "1_57_58_59",
             "Section": "Directeurs"
           }],
+          "OptCount": 3,
           "Lft": "463",
           "Rgt": "470",
           "Children": [{
@@ -7596,6 +7830,7 @@
               "Ciid": "1_57_58_82_93",
               "Section": "Responsable"
             }],
+            "OptCount": 1,
             "Lft": "464",
             "Rgt": "465",
             "Children": null
@@ -7639,6 +7874,7 @@
               "Ciid": "1_57_58_82_93",
               "Section": "Responsable"
             }],
+            "OptCount": 1,
             "Lft": "466",
             "Rgt": "467",
             "Children": null
@@ -7682,6 +7918,7 @@
               "Ciid": "1_57_58_82_93",
               "Section": "Responsable"
             }],
+            "OptCount": 1,
             "Lft": "468",
             "Rgt": "469",
             "Children": null
@@ -7708,6 +7945,7 @@
             "Ciid": "1_57_58_59",
             "Section": "Directeurs"
           }],
+          "OptCount": 3,
           "Lft": "471",
           "Rgt": "478",
           "Children": [{
@@ -7750,6 +7988,7 @@
               "Ciid": "1_57_58_82_89",
               "Section": "Leader"
             }],
+            "OptCount": 1,
             "Lft": "472",
             "Rgt": "473",
             "Children": null
@@ -7793,6 +8032,7 @@
               "Ciid": "1_57_58_82_89",
               "Section": "Leader"
             }],
+            "OptCount": 1,
             "Lft": "474",
             "Rgt": "475",
             "Children": null
@@ -7836,6 +8076,7 @@
               "Ciid": "1_57_58_82_89",
               "Section": "Leader"
             }],
+            "OptCount": 1,
             "Lft": "476",
             "Rgt": "477",
             "Children": null
@@ -7862,6 +8103,7 @@
             "Ciid": "1_57_58_59",
             "Section": "Directeurs"
           }],
+          "OptCount": 3,
           "Lft": "479",
           "Rgt": "486",
           "Children": [{
@@ -7904,6 +8146,7 @@
               "Ciid": "1_57_58_82_85",
               "Section": "Compétent (Dirigeant)"
             }],
+            "OptCount": 1,
             "Lft": "480",
             "Rgt": "481",
             "Children": null
@@ -7947,6 +8190,7 @@
               "Ciid": "1_57_58_82_85",
               "Section": "Compétent (Dirigeant)"
             }],
+            "OptCount": 1,
             "Lft": "482",
             "Rgt": "483",
             "Children": null
@@ -7990,6 +8234,7 @@
               "Ciid": "1_57_58_82_85",
               "Section": "Compétent (Dirigeant)"
             }],
+            "OptCount": 1,
             "Lft": "484",
             "Rgt": "485",
             "Children": null
@@ -8016,6 +8261,7 @@
             "Ciid": "1_57_58_59",
             "Section": "Directeurs"
           }],
+          "OptCount": 1,
           "Lft": "487",
           "Rgt": "490",
           "Children": [{
@@ -8058,6 +8304,7 @@
               "Ciid": "1_57_58_82_83",
               "Section": "Stratège"
             }],
+            "OptCount": 1,
             "Lft": "488",
             "Rgt": "489",
             "Children": null
@@ -8082,6 +8329,7 @@
           "Ciid": "1_57_58",
           "Section": "Capital dirigeants"
         }],
+        "OptCount": 14,
         "Lft": "492",
         "Rgt": "537",
         "Children": [{
@@ -8118,6 +8366,7 @@
             "Ciid": "1_57_58_59",
             "Section": "Directeurs"
           }],
+          "OptCount": 1,
           "Lft": "493",
           "Rgt": "494",
           "Children": null
@@ -8143,6 +8392,7 @@
             "Ciid": "1_57_58_59",
             "Section": "Directeurs"
           }],
+          "OptCount": 13,
           "Lft": "495",
           "Rgt": "536",
           "Children": [{
@@ -8170,6 +8420,7 @@
               "Ciid": "1_57_58_59_60",
               "Section": "Moyenne des directeurs"
             }],
+            "OptCount": 3,
             "Lft": "496",
             "Rgt": "507",
             "Children": [{
@@ -8200,6 +8451,7 @@
                 "Ciid": "1_57_58_59_60_61",
                 "Section": "Stratège"
               }],
+              "OptCount": 1,
               "Lft": "497",
               "Rgt": "500",
               "Children": [{
@@ -8248,6 +8500,7 @@
                   "Ciid": "1_57_58_59_60_75_76",
                   "Section": "Stable I"
                 }],
+                "OptCount": 1,
                 "Lft": "498",
                 "Rgt": "499",
                 "Children": null
@@ -8280,6 +8533,7 @@
                 "Ciid": "1_57_58_59_60_61",
                 "Section": "Stratège"
               }],
+              "OptCount": 2,
               "Lft": "501",
               "Rgt": "506",
               "Children": [{
@@ -8328,6 +8582,7 @@
                   "Ciid": "1_57_58_59_60_75_76",
                   "Section": "Stable I"
                 }],
+                "OptCount": 1,
                 "Lft": "502",
                 "Rgt": "503",
                 "Children": null
@@ -8377,6 +8632,7 @@
                   "Ciid": "1_57_58_59_60_75_76",
                   "Section": "Stable I"
                 }],
+                "OptCount": 1,
                 "Lft": "504",
                 "Rgt": "505",
                 "Children": null
@@ -8407,6 +8663,7 @@
               "Ciid": "1_57_58_59_60",
               "Section": "Moyenne des directeurs"
             }],
+            "OptCount": 3,
             "Lft": "508",
             "Rgt": "515",
             "Children": [{
@@ -8452,6 +8709,7 @@
                 "Ciid": "1_57_58_59_60_61",
                 "Section": "Stratège"
               }],
+              "OptCount": 1,
               "Lft": "509",
               "Rgt": "510",
               "Children": null
@@ -8498,6 +8756,7 @@
                 "Ciid": "1_57_58_59_60_61",
                 "Section": "Stratège"
               }],
+              "OptCount": 1,
               "Lft": "511",
               "Rgt": "512",
               "Children": null
@@ -8544,6 +8803,7 @@
                 "Ciid": "1_57_58_59_60_61",
                 "Section": "Stratège"
               }],
+              "OptCount": 1,
               "Lft": "513",
               "Rgt": "514",
               "Children": null
@@ -8573,6 +8833,7 @@
               "Ciid": "1_57_58_59_60",
               "Section": "Moyenne des directeurs"
             }],
+            "OptCount": 3,
             "Lft": "516",
             "Rgt": "523",
             "Children": [{
@@ -8618,6 +8879,7 @@
                 "Ciid": "1_57_58_59_60_61",
                 "Section": "Stratège"
               }],
+              "OptCount": 1,
               "Lft": "517",
               "Rgt": "518",
               "Children": null
@@ -8664,6 +8926,7 @@
                 "Ciid": "1_57_58_59_60_61",
                 "Section": "Stratège"
               }],
+              "OptCount": 1,
               "Lft": "519",
               "Rgt": "520",
               "Children": null
@@ -8710,6 +8973,7 @@
                 "Ciid": "1_57_58_59_60_61",
                 "Section": "Stratège"
               }],
+              "OptCount": 1,
               "Lft": "521",
               "Rgt": "522",
               "Children": null
@@ -8739,6 +9003,7 @@
               "Ciid": "1_57_58_59_60",
               "Section": "Moyenne des directeurs"
             }],
+            "OptCount": 3,
             "Lft": "524",
             "Rgt": "531",
             "Children": [{
@@ -8784,6 +9049,7 @@
                 "Ciid": "1_57_58_59_60_61",
                 "Section": "Stratège"
               }],
+              "OptCount": 1,
               "Lft": "525",
               "Rgt": "526",
               "Children": null
@@ -8830,6 +9096,7 @@
                 "Ciid": "1_57_58_59_60_61",
                 "Section": "Stratège"
               }],
+              "OptCount": 1,
               "Lft": "527",
               "Rgt": "528",
               "Children": null
@@ -8876,6 +9143,7 @@
                 "Ciid": "1_57_58_59_60_61",
                 "Section": "Stratège"
               }],
+              "OptCount": 1,
               "Lft": "529",
               "Rgt": "530",
               "Children": null
@@ -8905,6 +9173,7 @@
               "Ciid": "1_57_58_59_60",
               "Section": "Moyenne des directeurs"
             }],
+            "OptCount": 1,
             "Lft": "532",
             "Rgt": "535",
             "Children": [{
@@ -8950,6 +9219,7 @@
                 "Ciid": "1_57_58_59_60_61",
                 "Section": "Stratège"
               }],
+              "OptCount": 1,
               "Lft": "533",
               "Rgt": "534",
               "Children": null
@@ -8971,6 +9241,7 @@
       "Ciid": "1",
       "Section": "Immaterial capitals"
     }],
+    "OptCount": 27,
     "Lft": "540",
     "Rgt": "649",
     "Children": [{
@@ -8989,6 +9260,7 @@
         "Ciid": "1_2",
         "Section": "﻿Capital Client"
       }],
+      "OptCount": 14,
       "Lft": "541",
       "Rgt": "594",
       "Children": [{
@@ -9010,6 +9282,7 @@
           "Ciid": "1_2_30",
           "Section": "Capital Client B to C"
         }],
+        "OptCount": 2,
         "Lft": "542",
         "Rgt": "547",
         "Children": [{
@@ -9049,6 +9322,7 @@
             "Ciid": "1_2_30_32",
             "Section": "Nombreux (taille et Dynamique de marché)"
           }],
+          "OptCount": 1,
           "Lft": "543",
           "Rgt": "544",
           "Children": null
@@ -9089,6 +9363,7 @@
             "Ciid": "1_2_30_32",
             "Section": "Nombreux (taille et Dynamique de marché)"
           }],
+          "OptCount": 1,
           "Lft": "545",
           "Rgt": "546",
           "Children": null
@@ -9112,6 +9387,7 @@
           "Ciid": "1_2_30",
           "Section": "Capital Client B to C"
         }],
+        "OptCount": 1,
         "Lft": "548",
         "Rgt": "551",
         "Children": [{
@@ -9151,6 +9427,7 @@
             "Ciid": "1_2_30_32",
             "Section": "Nombreux (taille et Dynamique de marché)"
           }],
+          "OptCount": 1,
           "Lft": "549",
           "Rgt": "550",
           "Children": null
@@ -9174,6 +9451,7 @@
           "Ciid": "1_2_30",
           "Section": "Capital Client B to C"
         }],
+        "OptCount": 3,
         "Lft": "552",
         "Rgt": "563",
         "Children": [{
@@ -9198,6 +9476,7 @@
             "Ciid": "1_2_30_32",
             "Section": "Nombreux (taille et Dynamique de marché)"
           }],
+          "OptCount": 2,
           "Lft": "553",
           "Rgt": "558",
           "Children": [{
@@ -9240,6 +9519,7 @@
               "Ciid": "1_2_30_46_49",
               "Section": "Stabilité de revenus"
             }],
+            "OptCount": 1,
             "Lft": "554",
             "Rgt": "555",
             "Children": null
@@ -9283,6 +9563,7 @@
               "Ciid": "1_2_30_46_49",
               "Section": "Stabilité de revenus"
             }],
+            "OptCount": 1,
             "Lft": "556",
             "Rgt": "557",
             "Children": null
@@ -9309,6 +9590,7 @@
             "Ciid": "1_2_30_32",
             "Section": "Nombreux (taille et Dynamique de marché)"
           }],
+          "OptCount": 1,
           "Lft": "559",
           "Rgt": "562",
           "Children": [{
@@ -9351,6 +9633,7 @@
               "Ciid": "1_2_30_46_47",
               "Section": "CSP"
             }],
+            "OptCount": 1,
             "Lft": "560",
             "Rgt": "561",
             "Children": null
@@ -9375,6 +9658,7 @@
           "Ciid": "1_2_30",
           "Section": "Capital Client B to C"
         }],
+        "OptCount": 3,
         "Lft": "564",
         "Rgt": "577",
         "Children": [{
@@ -9399,6 +9683,7 @@
             "Ciid": "1_2_30_32",
             "Section": "Nombreux (taille et Dynamique de marché)"
           }],
+          "OptCount": 1,
           "Lft": "565",
           "Rgt": "568",
           "Children": [{
@@ -9441,6 +9726,7 @@
               "Ciid": "1_2_30_39_44",
               "Section": "Exigeants"
             }],
+            "OptCount": 1,
             "Lft": "566",
             "Rgt": "567",
             "Children": null
@@ -9467,6 +9753,7 @@
             "Ciid": "1_2_30_32",
             "Section": "Nombreux (taille et Dynamique de marché)"
           }],
+          "OptCount": 1,
           "Lft": "569",
           "Rgt": "572",
           "Children": [{
@@ -9509,6 +9796,7 @@
               "Ciid": "1_2_30_39_42",
               "Section": "Responsables"
             }],
+            "OptCount": 1,
             "Lft": "570",
             "Rgt": "571",
             "Children": null
@@ -9535,6 +9823,7 @@
             "Ciid": "1_2_30_32",
             "Section": "Nombreux (taille et Dynamique de marché)"
           }],
+          "OptCount": 1,
           "Lft": "573",
           "Rgt": "576",
           "Children": [{
@@ -9577,6 +9866,7 @@
               "Ciid": "1_2_30_39_40",
               "Section": "Favorables"
             }],
+            "OptCount": 1,
             "Lft": "574",
             "Rgt": "575",
             "Children": null
@@ -9601,6 +9891,7 @@
           "Ciid": "1_2_30",
           "Section": "Capital Client B to C"
         }],
+        "OptCount": 4,
         "Lft": "578",
         "Rgt": "591",
         "Children": [{
@@ -9625,6 +9916,7 @@
             "Ciid": "1_2_30_32",
             "Section": "Nombreux (taille et Dynamique de marché)"
           }],
+          "OptCount": 2,
           "Lft": "579",
           "Rgt": "584",
           "Children": [{
@@ -9667,6 +9959,7 @@
               "Ciid": "1_2_30_32_36",
               "Section": "Nombreux II (Stabilité de la croissance)"
             }],
+            "OptCount": 1,
             "Lft": "580",
             "Rgt": "581",
             "Children": null
@@ -9710,6 +10003,7 @@
               "Ciid": "1_2_30_32_36",
               "Section": "Nombreux II (Stabilité de la croissance)"
             }],
+            "OptCount": 1,
             "Lft": "582",
             "Rgt": "583",
             "Children": null
@@ -9736,6 +10030,7 @@
             "Ciid": "1_2_30_32",
             "Section": "Nombreux (taille et Dynamique de marché)"
           }],
+          "OptCount": 2,
           "Lft": "585",
           "Rgt": "590",
           "Children": [{
@@ -9778,6 +10073,7 @@
               "Ciid": "1_2_30_32_33",
               "Section": "Nombreux I"
             }],
+            "OptCount": 1,
             "Lft": "586",
             "Rgt": "587",
             "Children": null
@@ -9821,6 +10117,7 @@
               "Ciid": "1_2_30_32_33",
               "Section": "Nombreux I"
             }],
+            "OptCount": 1,
             "Lft": "588",
             "Rgt": "589",
             "Children": null
@@ -9860,6 +10157,7 @@
           "Ciid": "1_2_30",
           "Section": "Capital Client B to C"
         }],
+        "OptCount": 1,
         "Lft": "592",
         "Rgt": "593",
         "Children": null
@@ -9880,6 +10178,7 @@
         "Ciid": "1_2",
         "Section": "﻿Capital Client"
       }],
+      "OptCount": 13,
       "Lft": "595",
       "Rgt": "648",
       "Children": [{
@@ -9901,6 +10200,7 @@
           "Ciid": "1_2_3",
           "Section": "Capital client B to B"
         }],
+        "OptCount": 6,
         "Lft": "596",
         "Rgt": "623",
         "Children": [{
@@ -9925,6 +10225,7 @@
             "Ciid": "1_2_3_4",
             "Section": "Qualités collectives"
           }],
+          "OptCount": 1,
           "Lft": "597",
           "Rgt": "600",
           "Children": [{
@@ -9967,6 +10268,7 @@
               "Ciid": "1_2_3_16_28",
               "Section": "Satisfaction"
             }],
+            "OptCount": 1,
             "Lft": "598",
             "Rgt": "599",
             "Children": null
@@ -9993,6 +10295,7 @@
             "Ciid": "1_2_3_4",
             "Section": "Qualités collectives"
           }],
+          "OptCount": 2,
           "Lft": "601",
           "Rgt": "610",
           "Children": [{
@@ -10020,6 +10323,7 @@
               "Ciid": "1_2_3_16_23",
               "Section": "Flux de valeur"
             }],
+            "OptCount": 1,
             "Lft": "602",
             "Rgt": "605",
             "Children": [{
@@ -10065,6 +10369,7 @@
                 "Ciid": "1_2_3_16_23_24",
                 "Section": "Rentabilité "
               }],
+              "OptCount": 1,
               "Lft": "603",
               "Rgt": "604",
               "Children": null
@@ -10094,6 +10399,7 @@
               "Ciid": "1_2_3_16_23",
               "Section": "Flux de valeur"
             }],
+            "OptCount": 1,
             "Lft": "606",
             "Rgt": "609",
             "Children": [{
@@ -10139,6 +10445,7 @@
                 "Ciid": "1_2_3_16_23_24",
                 "Section": "Rentabilité "
               }],
+              "OptCount": 1,
               "Lft": "607",
               "Rgt": "608",
               "Children": null
@@ -10166,6 +10473,7 @@
             "Ciid": "1_2_3_4",
             "Section": "Qualités collectives"
           }],
+          "OptCount": 3,
           "Lft": "611",
           "Rgt": "622",
           "Children": [{
@@ -10193,6 +10501,7 @@
               "Ciid": "1_2_3_16_17",
               "Section": "Potentiel des clients"
             }],
+            "OptCount": 1,
             "Lft": "612",
             "Rgt": "615",
             "Children": [{
@@ -10238,6 +10547,7 @@
                 "Ciid": "1_2_3_16_17_18",
                 "Section": "Richesse"
               }],
+              "OptCount": 1,
               "Lft": "613",
               "Rgt": "614",
               "Children": null
@@ -10267,6 +10577,7 @@
               "Ciid": "1_2_3_16_17",
               "Section": "Potentiel des clients"
             }],
+            "OptCount": 2,
             "Lft": "616",
             "Rgt": "621",
             "Children": [{
@@ -10309,6 +10620,7 @@
                 "Ciid": "1_2_3_16_17_18",
                 "Section": "Richesse"
               }],
+              "OptCount": 1,
               "Lft": "617",
               "Rgt": "618",
               "Children": null
@@ -10355,6 +10667,7 @@
                 "Ciid": "1_2_3_16_17_18",
                 "Section": "Richesse"
               }],
+              "OptCount": 1,
               "Lft": "619",
               "Rgt": "620",
               "Children": null
@@ -10380,6 +10693,7 @@
           "Ciid": "1_2_3",
           "Section": "Capital client B to B"
         }],
+        "OptCount": 2,
         "Lft": "624",
         "Rgt": "629",
         "Children": [{
@@ -10419,6 +10733,7 @@
             "Ciid": "1_2_3_4",
             "Section": "Qualités collectives"
           }],
+          "OptCount": 1,
           "Lft": "625",
           "Rgt": "626",
           "Children": null
@@ -10456,6 +10771,7 @@
             "Ciid": "1_2_3_4",
             "Section": "Qualités collectives"
           }],
+          "OptCount": 1,
           "Lft": "627",
           "Rgt": "628",
           "Children": null
@@ -10479,6 +10795,7 @@
           "Ciid": "1_2_3",
           "Section": "Capital client B to B"
         }],
+        "OptCount": 5,
         "Lft": "630",
         "Rgt": "647",
         "Children": [{
@@ -10503,6 +10820,7 @@
             "Ciid": "1_2_3_4",
             "Section": "Qualités collectives"
           }],
+          "OptCount": 1,
           "Lft": "631",
           "Rgt": "634",
           "Children": [{
@@ -10545,6 +10863,7 @@
               "Ciid": "1_2_3_4_11",
               "Section": "Risques"
             }],
+            "OptCount": 1,
             "Lft": "632",
             "Rgt": "633",
             "Children": null
@@ -10571,6 +10890,7 @@
             "Ciid": "1_2_3_4",
             "Section": "Qualités collectives"
           }],
+          "OptCount": 2,
           "Lft": "635",
           "Rgt": "640",
           "Children": [{
@@ -10613,6 +10933,7 @@
               "Ciid": "1_2_3_4_8",
               "Section": "Dynamique marché II (Stabilité de la croissance)"
             }],
+            "OptCount": 1,
             "Lft": "636",
             "Rgt": "637",
             "Children": null
@@ -10656,6 +10977,7 @@
               "Ciid": "1_2_3_4_8",
               "Section": "Dynamique marché II (Stabilité de la croissance)"
             }],
+            "OptCount": 1,
             "Lft": "638",
             "Rgt": "639",
             "Children": null
@@ -10682,6 +11004,7 @@
             "Ciid": "1_2_3_4",
             "Section": "Qualités collectives"
           }],
+          "OptCount": 2,
           "Lft": "641",
           "Rgt": "646",
           "Children": [{
@@ -10724,6 +11047,7 @@
               "Ciid": "1_2_3_4_5",
               "Section": "Dynamique marché I (Croissance)"
             }],
+            "OptCount": 1,
             "Lft": "642",
             "Rgt": "643",
             "Children": null
@@ -10767,6 +11091,7 @@
               "Ciid": "1_2_3_4_5",
               "Section": "Dynamique marché I (Croissance)"
             }],
+            "OptCount": 1,
             "Lft": "644",
             "Rgt": "645",
             "Children": null

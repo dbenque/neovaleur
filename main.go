@@ -32,6 +32,7 @@ type nodeBase struct {
 	Options   []option
 	Ciid      string
 	Path      []PathAndId
+	OptCount  int
 }
 
 type nodeJson struct {
@@ -112,6 +113,23 @@ func (n *nodeJson) setParentPath(path []PathAndId) {
 	}
 }
 
+func (n *nodeJson) setSubCount() int {
+
+	count := 0
+
+	if n.Children != nil {
+		for i := 0; i < len(n.Children); i++ {
+			count = count + (&(n.Children[i])).setSubCount()
+		}
+	} else {
+		count = 1
+	}
+
+	n.OptCount = count
+	return count
+
+}
+
 func buildModel(t *treeDataModel) map[string]node {
 	m := make(map[string]node)
 	for k, v := range t.Nodes {
@@ -186,6 +204,7 @@ func main() {
 	r := treeData.Nodes["1"]
 	r.setOptionsAndCiid(&modelMap, "")
 	r.setParentPath(nil)
+	r.setSubCount()
 
 	// for _, n := range modelMap {
 	// 	if n.Id == "314" {
